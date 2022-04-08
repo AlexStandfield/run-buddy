@@ -18,7 +18,7 @@ A website that offers fitness training services.
 
 
 ## Website
-https://
+https://alexstandfield.github.io/run-buddy/
 
 
 
